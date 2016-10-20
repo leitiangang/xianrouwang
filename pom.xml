@@ -10,6 +10,14 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <build>
+  <directory>C:\Users\linkingmed002\git\xianrouwang\kk</directory>
+  <outputDirectory>C:\Users\linkingmed002\git\xianrouwang\jj</outputDirectory>
+    <finalName>xianrouwang-0.0.2-SNAPSHOT</finalName>
+    <resources>
+      <resource>
+        <directory>C:\Users\linkingmed002\git\xianrouwang\src\main\webapp\spring</directory>
+      </resource>
+    </resources>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
