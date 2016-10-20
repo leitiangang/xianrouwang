@@ -6,5 +6,4 @@ public class A {
 	System.out.println("dd");
 	String a = "1245";
 	Integer b=1;
-}
-}
+}}
